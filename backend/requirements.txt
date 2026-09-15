@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow
+pillow
+python-multipart
+numpy
+lime
+scikit-image
+sqlalchemy
+passlib[bcrypt]
+bcrypt==4.0.1
